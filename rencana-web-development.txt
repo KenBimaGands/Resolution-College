@@ -2,5 +2,6 @@
 - menggunakan netlify app
 - menggunakan vercel app
 2. upgrade frameworks
-3. starting steps as a proffesional web developer
+- angular
+- react
 4. learn backend
