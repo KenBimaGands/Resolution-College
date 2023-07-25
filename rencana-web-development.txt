@@ -1,3 +1,5 @@
-1. belajar deploy
+1. belajar deployz
+- menggunakan netlify app
+- menggunakan vercel app
 2. upgrade frameworks
 3. starting steps as a proffesional web developer
