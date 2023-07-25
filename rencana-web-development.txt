@@ -1,6 +1,9 @@
 1. belajar deployz
 - menggunakan netlify app
 - menggunakan vercel app
-2. upgrade frameworks
+2. Upgrade frameworks
 3. starting steps as a proffesional web developer
 4. learn backend
+- Javascript
+- PHP
+- Laravel
