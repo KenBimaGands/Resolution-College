@@ -3,3 +3,4 @@
 - menggunakan vercel app
 2. upgrade frameworks
 3. starting steps as a proffesional web developer
+4. learn backend
