@@ -5,3 +5,6 @@
 - angular
 - react
 4. learn backend
+- Javascript
+- PHP
+- Laravel
